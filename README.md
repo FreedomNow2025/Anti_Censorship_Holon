@@ -6,16 +6,16 @@ https://www.youtube.com/watch?v=nFmln08Dq1U
 
 US Censorship Industrial Complex: (Current or historic or side factors):
 * Videos (Must Watch)
-* [List of People](https://github.com/FreedomNow2025/Anti_Censorship_Holon/tree/main/Files)
+* [List of People](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
 * [List of Organizations](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Organizations.md)
+* [US Government Organizations](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/US_Gov)
+* [EU Government Organizations]()
+* [Social Media firms](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Social_Media_Companies.md) (Twitter v1.0, X.com, etc.)
 * List of Efforts
-* US Government Organizations
-* EU Government Organizations
-* Social Media firms (Twitter v1.0, X.com, etc.)
 * Main Stream Media - News
 * Advertising
 * Debanking
-* Credit Card Companies
+* [Credit Card Companies](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Credit_Cards.md)
 
 
 
