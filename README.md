@@ -12,9 +12,9 @@ US Censorship Industrial Complex: (Current or historic or side factors):
 * [EU Government Organizations]()
 * [Social Media firms](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Social_Media_Companies.md) (Twitter v1.0, X.com, etc.)
 * List of Efforts
-* Main Stream Media - News
-* Advertising
-* Debanking
+* [Main Stream Media](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/MSM.md) - News
+* [Advertising](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Advertising.md)
+* [Debanking](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Debanking.md)
 * [Credit Card Companies](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Credit_Cards.md)
 
 
