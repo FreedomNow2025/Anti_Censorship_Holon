@@ -5,7 +5,20 @@ We are working to find out if there are any incorrect information. This site is 
 https://www.youtube.com/watch?v=nFmln08Dq1U
 
 US Censorship Industrial Complex: (Current or historic or side factors):
-* d
+* Videos (Must Watch)
+* [List of People](https://github.com/FreedomNow2025/Anti_Censorship_Holon/tree/main/Files)
+* [List of Organizations](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Organizations.md)
+* List of Efforts
+* US Government Organizations
+* EU Government Organizations
+* Social Media firms (Twitter v1.0, X.com, etc.)
+* Main Stream Media - News
+* Advertising
+* Debanking
+* Credit Card Companies
+
+
+
 
 Censorship via Whole-of-Society means:
 * Democracy is removed. Citizens lose control. Dictator control by Wash DC bureaucrats.
