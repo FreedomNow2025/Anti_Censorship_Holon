@@ -45,3 +45,5 @@ Map these out:
 
 * Newsguard: "moderation" (claims of censorship by Mike Benz)
 * GlobSec: d
+* NED:
+* Perspective
