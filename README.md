@@ -36,3 +36,11 @@ Censorship via Whole-of-Society means:
 * The political left had "Content moderation external services". These were censorship against Republican posts that were too annoying to democrats. At one point, I believe I heard an interview that Parlor was told they must use this or lose being in the Apple AppStore. Parlor capitulated (from my understanding). Their users had to endure this censorship (or whatever the impact was), but it was probably the only way for Parlor to stay in the Apple app store.
 
 All were often coordinated to have punishments happen in the same month. Debanked. Credit card processing turned off. Advertising turned OFF. Apple & Android both were at risk of losing app store at the same time. This is because of the powerful elite with extreme power to coordinate dictator control forcing censorship.  Mass coordination. Getting a large percentage of USA Fortune 1,000 companies to turn off their advertising at the same time requires USA Intel service kinds off power and coordination.
+
+
+Map these out:
+* Freedom House
+* Jigsaw
+* 2022: DGB Dissolves in scandal.
+
+* Newsguard: "moderation" (claims of censorship by Mike Benz)
