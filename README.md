@@ -44,3 +44,4 @@ Map these out:
 * 2022: DGB Dissolves in scandal.
 
 * Newsguard: "moderation" (claims of censorship by Mike Benz)
+* GlobSec: d
