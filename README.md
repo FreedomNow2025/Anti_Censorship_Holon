@@ -47,3 +47,7 @@ Map these out:
 * GlobSec: d
 * NED:
 * Perspective
+* Bellingcat
+* DFR Digital Sherlocks
+* EuVsDisInfo
+* 
