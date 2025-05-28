@@ -2,6 +2,7 @@
 
 
 Mike Benz said:
+
 "...how the National Endowment for Democracy remains fully funded...
 ..in the Trump administration about defunding the National Endowment for Democracy
 ...(NED) is one of, if not worst offender in this entire space
