@@ -50,7 +50,10 @@ Related to Censorship or Propoganda or anything potentially interesting in the t
 - Cole Haan  
 - Oracle  
 - Xfinity (Comcast)  
-- Bravo (NBCUniversal)  
+- Bravo (NBCUniversal)
+- Nestlé,
+- Lego
+- Shell 
 
 # Starving Ad Revenue:
 * After 18 brands launched a $2.5 billion boycott of X (formerly Twitter) in 2022, Elon fired back yesterday with a ruthless lawsuit
