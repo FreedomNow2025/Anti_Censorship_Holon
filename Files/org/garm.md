@@ -1,4 +1,4 @@
-# GARM
+# GARM: Global Alliance for Responsible Media
 
 See the videos calling out this organization and references to how they relate to censorship.
 
