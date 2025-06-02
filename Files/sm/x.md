@@ -6,8 +6,14 @@ Related to Censorship or Propoganda or anything potentially interesting in the t
 
 * X.com worked on being killed by all advertising turned off (when Elon purchased it). DC Dictators had US intel control to get 99% of US Fortune 1000 companies to turn OFF their advertising IMMEDIATELY (all at one time).
 
-## Companies That Reduced or Turned Off Advertising on X.com (Twitter) Between 2021 and 2023
 
+# Starving Ad Revenue:
+* After 18 brands launched a $2.5 billion boycott of X (formerly Twitter) in 2022, Elon fired back yesterday with a ruthless lawsuit
+*  X's ad revenue plummeted by $1.5 billion in 2023, a 33% drop from 2021.
+* The companies coordinated through GARM, the Global Alliance for Responsible Media
+
+
+## Companies That Reduced or Turned Off Advertising on X.com (Twitter) Between 2021 and 2023
 - Apple  
 - IBM  
 - Disney  
@@ -54,11 +60,6 @@ Related to Censorship or Propoganda or anything potentially interesting in the t
 - Nestlé,
 - Lego
 - Shell 
-
-# Starving Ad Revenue:
-* After 18 brands launched a $2.5 billion boycott of X (formerly Twitter) in 2022, Elon fired back yesterday with a ruthless lawsuit
-*  X's ad revenue plummeted by $1.5 billion in 2023, a 33% drop from 2021.
-* The companies coordinated through GARM, the Global Alliance for Responsible Media
 
 ## Prompt to Grok: What can be found about any law suit  Elon Musk filed related to the follow: Give details After 18 brands launched a $2.5 billion boycott of X (formerly Twitter) in 2022, Elon fired back yesterday with a ruthless lawsuit.
 
