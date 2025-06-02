@@ -6,6 +6,51 @@ Related to Censorship or Propoganda or anything potentially interesting in the t
 
 * X.com worked on being killed by all advertising turned off (when Elon purchased it). DC Dictators had US intel control to get 99% of US Fortune 1000 companies to turn OFF their advertising IMMEDIATELY (all at one time).
 
+## Companies That Reduced or Turned Off Advertising on X.com (Twitter) Between 2021 and 2023
+
+- Apple  
+- IBM  
+- Disney  
+- Comcast (NBCUniversal)  
+- Sony Pictures  
+- Paramount Global  
+- Lionsgate  
+- Warner Bros. Discovery  
+- CBS  
+- The Colbert Show  
+- Fox Sports  
+- Ubisoft  
+- Axios  
+- TechCrunch  
+- Paris Hilton’s 11:11 Media  
+- Unilever  
+- Mars  
+- CVS Health  
+- Ørsted  
+- United Airlines  
+- Volkswagen  
+- Airbnb  
+- Coca-Cola  
+- Microsoft  
+- Walmart  
+- O2  
+- Hyundai  
+- Domino’s Pizza  
+- Oreo cookies (Mondelēz International)  
+- Lamborghini  
+- Bentley  
+- Ducati  
+- Michelin  
+- Puma  
+- Reckitt  
+- Sanofi  
+- Hugo BOSS  
+- KIA  
+- Swarovski  
+- Cole Haan  
+- Oracle  
+- Xfinity (Comcast)  
+- Bravo (NBCUniversal)  
 
 # Starving Ad Revenue:
 * After 18 brands launched a $2.5 billion boycott of X (formerly Twitter) in 2022, Elon fired back yesterday with a ruthless lawsuit
